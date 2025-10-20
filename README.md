@@ -87,8 +87,6 @@ When the **“Suggest Sub-tasks”** button is clicked, the app sends the task�
 └── README.md            # You are here!
 
 
----
-
 ## 🧩 Future Enhancements
 - ✅ Team workspaces with real-time collaboration  
 - ✅ Cloud-based task storage  
@@ -108,7 +106,4 @@ Full-Stack Developer | AI Integrator | Tech Educator 🌸
 ## 🪄 License
 Released under the **MIT License** — free for personal and educational use.  
 Feel free to fork, enhance, and innovate with *Project Pilot*!
-
-
-## 📁 Project Structure
 
