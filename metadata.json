@@ -1,0 +1,6 @@
+
+{
+  "name": "Project Pilot",
+  "description": "A collaborative project management tool, similar to Trello or Asana. Users can create projects, manage tasks on a Kanban board, assign them to team members, set priorities, and communicate within tasks. It leverages AI to suggest sub-tasks, enhancing productivity.",
+  "requestFramePermissions": []
+}
